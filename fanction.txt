@@ -1,0 +1,2 @@
+funcation of index.html
+ version 2
